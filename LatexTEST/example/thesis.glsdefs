@@ -1,0 +1,60 @@
+\ifglsentryexists{pi}{}%
+{%
+\gls@defglossaryentry{pi}%
+{%
+name={$\Pi $},%
+sort={pi},%
+type={main},%
+first={$\Pi $},%
+firstplural={$\Pi $s},%
+text={$\Pi $},%
+plural={$\Pi $s},%
+description={数学及物理学领域普遍存在的数学常数。},%
+descriptionplural={数学及物理学领域普遍存在的数学常数。},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{svm}{}%
+{%
+\gls@defglossaryentry{svm}%
+{%
+name={\acrnameformat {SVM}{Support Vector Machine}},%
+sort={SVM},%
+type={acronym},%
+first={Support Vector Machine},%
+firstplural={Support Vector Machine\acrpluralsuffix },%
+text={SVM},%
+plural={SVM\acrpluralsuffix },%
+description={支持向量机},%
+descriptionplural={支持向量机},%
+symbol={SVM},%
+symbolplural={SVM\acrpluralsuffix },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Support Vector Machine},%
+longplural={Support Vector Machines},%
+short={SVM},%
+shortplural={SVMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

@@ -1,0 +1,3 @@
+/home/pf/TEST/cmakeTEST/build/CMakeFiles/edit_cache.dir
+/home/pf/TEST/cmakeTEST/build/CMakeFiles/rebuild_cache.dir
+/home/pf/TEST/cmakeTEST/build/CMakeFiles/te.dir

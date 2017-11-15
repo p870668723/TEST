@@ -1,0 +1,3 @@
+/home/pf/TEST/g2oSovler/build/CMakeFiles/edit_cache.dir
+/home/pf/TEST/g2oSovler/build/CMakeFiles/rebuild_cache.dir
+/home/pf/TEST/g2oSovler/build/CMakeFiles/curve_fitting.dir

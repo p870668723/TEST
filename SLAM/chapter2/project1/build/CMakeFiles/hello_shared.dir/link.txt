@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhello_shared.a  CMakeFiles/hello_shared.dir/libHelloSLAM.cpp.o
+/usr/bin/ranlib libhello_shared.a
